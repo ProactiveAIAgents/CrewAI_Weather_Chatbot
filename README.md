@@ -64,15 +64,15 @@ CrewAI_Weather_Chatbot/
 ## 📸 Screenshots
 
 ### Project Structure
-![Project Structure](screenshots/project_structure.png)
+![Screenshot 2024-12-13 at 4 24 32 PM](https://github.com/user-attachments/assets/9e93c6e9-d96e-45f6-8ab1-40c0d98f185c)
 *The organized directory structure of the CrewAI Weather Chatbot*
 
 ### Weather Report Example
-![Weather Report](screenshots/weather_report.png)
+![Screenshot 2024-12-13 at 2 18 29 PM](https://github.com/user-attachments/assets/2194aea9-d59b-4769-ac1c-e2790c66a756)
 *Sample weather report output for Miami*
 
 ### Agent Configuration
-![Agent Configuration](screenshots/agent_config.png)
+![Screenshot 2024-12-13 at 4 29 36 PM](https://github.com/user-attachments/assets/ef540c80-e26c-4162-9a33-3da6fdc48260)
 *Configuration of the Weather Information Analyst agent*
 
 ## 📝 Usage
