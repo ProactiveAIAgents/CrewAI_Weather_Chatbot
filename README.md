@@ -93,3 +93,34 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🎓 Skills Learned
+
+- **CrewAI Development**
+  - Building and orchestrating autonomous AI agents
+  - Agent task delegation and coordination
+  - Custom tool creation for agents
+
+- **API Integration & Data Handling**
+  - RESTful API integration with Tomorrow.io
+  - JSON data parsing and manipulation
+  - Error handling and API rate limiting
+  - Environment variable management
+
+- **Python Best Practices**
+  - Object-oriented programming principles
+  - Clean code architecture
+  - Modular design patterns
+  - Type hinting and documentation
+
+- **Development Workflow**
+  - Git version control
+  - Environment management
+  - Project structuring
+  - Documentation writing
+
+- **AI/ML Concepts**
+  - Natural Language Processing (NLP)
+  - Prompt engineering
+  - AI agent behavior configuration
+  - LLM integration and optimization
